@@ -1,0 +1,27 @@
+# Виртуальное окружение
+.venv/
+.env
+
+# Кешированные файлы
+__pycache__/
+*.pyc
+*.pyo
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Настройки IDE
+.vscode/
+.idea/
+*.swp
+
+# Telegram session
+*.session
+*.session-journal
+
+# Хранилища
+local_storage.json
+
+# Другие файлы
+start.bat
